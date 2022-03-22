@@ -1,8 +1,6 @@
 package com.afpa.tennis.core.service;
 
-import com.afpa.tennis.core.entity.Joueur;
 import com.afpa.tennis.core.entity.Tournoi;
-import com.afpa.tennis.core.repository.JoueurRepository;
 import com.afpa.tennis.core.repository.TournoiRepository;
 
 import java.util.List;
